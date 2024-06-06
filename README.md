@@ -2,8 +2,6 @@
 
 ![Smile School](https://github.com/Abulfazfa/holbertonschool-web-development/blob/master/html_advanced/assets/images/indexPageSS.jpg)
 
-A brief description of what this project does and who it's for
-
 ## Description
 
 This repository contains the HTML code for a structured webpage layout. The layout is divided into several sections, each serving a different purpose.
